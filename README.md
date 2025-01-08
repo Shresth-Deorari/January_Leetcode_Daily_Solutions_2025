@@ -47,6 +47,9 @@ Below are the solutions to LeetCode problems solved in January 2025, organized b
 - **Januray 7, 2025**
   - [January_7](January_7.cpp)
 
+- **Januray 8, 2025**
+  - [January_8](January_8.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
