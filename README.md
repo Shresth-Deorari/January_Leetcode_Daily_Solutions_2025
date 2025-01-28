@@ -91,6 +91,12 @@ Below are the solutions to LeetCode problems solved in January 2025, organized b
 
 - **Januray 26, 2025**
   - [January_26](January_26.cpp)
+ 
+- **Januray 27, 2025**
+  - [January_27](January_27.cpp)
+ 
+- **Januray 28, 2025**
+  - [January_28](January_28.cpp)
 
 ## Usage
 
