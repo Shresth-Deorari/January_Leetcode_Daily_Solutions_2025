@@ -72,7 +72,7 @@ Below are the solutions to LeetCode problems solved in January 2025, organized b
   - [January_15](January_15.cpp)
 
 - **Januray 16, 2025**
-  - [January_16](January_16.cpp)
+  - [January_16](Janury_16.cpp)
 
 - **Januray 17, 2025**
   - [January_17](January_17.cpp)
