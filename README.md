@@ -99,13 +99,13 @@ Below are the solutions to LeetCode problems solved in January 2025, organized b
   - [January_28](January_28.cpp)
  
 - **Januray 29, 2025**
- - [January_29](January_29.cpp)
+  - [January_29](January_29.cpp)
 
 - **Januray 30, 2025**
- - [January_30](January_30.cpp)
+  - [January_30](January_30.cpp)
 
 - **Januray 31, 2025**
- - [January_31](January_31.cpp)
+  - [January_31](January_31.cpp)
 
 ## Usage
 
